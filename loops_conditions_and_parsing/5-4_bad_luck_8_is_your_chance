@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+conter = 1
+while counter <= 10:
+    if counter == 4:
+        print "bad luck"
+    elif counter == 8:
+        print "good luck"
+    else:
+        print "Best School"
+    ((counter++))
+done
