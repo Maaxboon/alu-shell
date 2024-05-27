@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-This script prints "Best School" 10 times
+#This script prints "Best School" 10 times
 counter=1
 while [ $counter -le 10 ]
 do
